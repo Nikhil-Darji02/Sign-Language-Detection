@@ -39,8 +39,6 @@ HandSignDetection/
 └── README.md
 ```
 
----
-
 ## 📸 How the System Works
 
 ### **1. Keypoint Extraction**
