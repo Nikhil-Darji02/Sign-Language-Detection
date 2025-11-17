@@ -55,7 +55,7 @@ So each frame =  21 landmarks × 3 values = 63 features
 ### **2. Sequence Creation**
 Each gesture is represented as a sequence of **30 frames**: 30 frames × 63 features = Gesture sequence
 
-These sequences are stored in the `Data/gesture_name/` folder.
+These sequences are stored in the `MP_Data/gesture_name/` folder.
 
 ---
 
