@@ -30,12 +30,12 @@ and uses them to train the LSTM model.
 ```
 HandSignDetection/ 
 │
-├── MP_Data/ # Your self-captured sequences/
-│ └── <gesture_name>/ # e.g., Hello, Yes, No/
+├── MP_Data/ # Your self-captured sequences
+│ └── <gesture_name>/ # e.g., Hello, Yes, No
 │
-├── action.h5 # Saved LSTM model/
+├── action.h5 # Saved LSTM model
 |
-├── Sign_Language_Detection.ipynb/
+├── Sign_Language_Detection.ipynb
 └── README.md
 ```
 
