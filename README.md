@@ -26,7 +26,8 @@ and uses them to train the LSTM model.
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure 
+```
 HandSignDetection/ 
 │
 ├── MP_Data/ # Your self-captured sequences/
